@@ -1,9 +1,11 @@
 # Chalice
-.chalice/deployments/*
-.chalice/venv/*
+./chalice/deployments/*
+./chalice/venv/*
 
 .DS_Store
-chalcie/__pycache__
+chalice/__pycache__/
+dynamodb-admin/.env
+persist
 
 # IDE
 .idea/*
