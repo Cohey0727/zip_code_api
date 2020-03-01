@@ -1,0 +1,7 @@
+# Chalice
+
+.chalice/deployments/*
+.chalice/venv/*
+
+# IDE
+.idea/*
