@@ -2,8 +2,8 @@
 .chalice/deployments/*
 .chalice/venv/*
 
-# Mac
 .DS_Store
+__pycache__/*
 
 # IDE
 .idea/*
