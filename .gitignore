@@ -3,7 +3,7 @@
 .chalice/venv/*
 
 .DS_Store
-__pycache__/*
+chalcie/__pycache__
 
 # IDE
 .idea/*
